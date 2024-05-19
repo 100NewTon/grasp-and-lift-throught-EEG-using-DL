@@ -1,1 +1,1 @@
-# grasp-and-lift-throught-EEG-using-DL
+# IML-project-grasp-and-lift-eeg-detection
